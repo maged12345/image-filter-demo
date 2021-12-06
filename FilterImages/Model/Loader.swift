@@ -7,7 +7,7 @@ import SVProgressHUD
 struct Loader {
 
     // to show loader
-    
+    // commit
     func showLoader(){
         
         SVProgressHUD.show()
