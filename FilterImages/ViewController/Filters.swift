@@ -4,7 +4,7 @@ import UIKit
 import SVProgressHUD
 
 class Filters: UIViewController {
-
+// initial commit
     // define outlets for image.
     @IBOutlet weak var imgFilter: UIImageView!
     
